@@ -74,7 +74,7 @@ portfolio6/
 
 ## 📜 License
 
-This project is licensed under the terms described in the [LICENSE](License) file.
+This project is licensed under the terms described in the [LICENSE](LICENSE) file.
 
 ---
 
